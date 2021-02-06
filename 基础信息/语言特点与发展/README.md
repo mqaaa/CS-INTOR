@@ -20,8 +20,7 @@
 
 下面我找了几个介绍：
 
-
-
+[C](https://github.com/mqaaa/CS-INTOR/blob/main/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/%E8%AF%AD%E8%A8%80%E7%89%B9%E7%82%B9%E4%B8%8E%E5%8F%91%E5%B1%95/C.md)、[C++](https://github.com/mqaaa/CS-INTOR/blob/main/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/%E8%AF%AD%E8%A8%80%E7%89%B9%E7%82%B9%E4%B8%8E%E5%8F%91%E5%B1%95/C%2B%2B.md)、[Python](https://github.com/mqaaa/CS-INTOR/blob/main/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/%E8%AF%AD%E8%A8%80%E7%89%B9%E7%82%B9%E4%B8%8E%E5%8F%91%E5%B1%95/Python.md)、[SQL](https://github.com/mqaaa/CS-INTOR/blob/main/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/%E8%AF%AD%E8%A8%80%E7%89%B9%E7%82%B9%E4%B8%8E%E5%8F%91%E5%B1%95/SQL.md)、[MATLAB](https://github.com/mqaaa/CS-INTOR/blob/main/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/%E8%AF%AD%E8%A8%80%E7%89%B9%E7%82%B9%E4%B8%8E%E5%8F%91%E5%B1%95/MATLAB.md)、[R](https://github.com/mqaaa/CS-INTOR/blob/main/%E5%9F%BA%E7%A1%80%E4%BF%A1%E6%81%AF/%E8%AF%AD%E8%A8%80%E7%89%B9%E7%82%B9%E4%B8%8E%E5%8F%91%E5%B1%95/R.md)
 
 
 
