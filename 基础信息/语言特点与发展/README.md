@@ -18,6 +18,13 @@
 
 
 
+下面我找了几个介绍：
+
+
+
+
+
+
 附录：
 
 [2021.1计算机语言受欢迎度排名](https://www.tiobe.com/tiobe-index/)
@@ -26,9 +33,23 @@
 
 
 
+业内主流语言：
 
+后端: Java、Go、Node.js、Python、PHP
 
+前端：JS，HTML、CSS
 
+数据分析：Python、SQL、R、MATLAB
+
+机器学习：Python（但是底层学习逻辑大部分为C），但绝大多数人，仅在Python阶段
+
+运维开发：Python、Go、Shell
+
+大数据：Java
+
+云计算：Java、Go
+
+客户端：Swift、Objective-C、C#
 
 
 
